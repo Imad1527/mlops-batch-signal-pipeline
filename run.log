@@ -1,0 +1,67 @@
+2026-03-26 03:37:25,667 - INFO - Job started
+2026-03-26 03:44:00,702 - INFO - Job started
+2026-03-26 03:44:00,703 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 03:48:28,967 - INFO - Job started
+2026-03-26 03:48:28,968 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 03:49:09,192 - INFO - Job started
+2026-03-26 03:49:09,193 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 03:51:32,995 - INFO - Job started
+2026-03-26 03:51:32,996 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 03:51:47,588 - INFO - Job started
+2026-03-26 03:51:47,589 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 03:53:13,392 - INFO - Job started
+2026-03-26 03:53:13,393 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 03:54:57,074 - INFO - Job started
+2026-03-26 03:54:57,077 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 03:58:27,443 - INFO - Job started
+2026-03-26 03:58:27,444 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 04:02:19,873 - INFO - Job started
+2026-03-26 04:02:19,875 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 04:02:52,274 - INFO - Job started
+2026-03-26 04:02:52,275 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 04:04:33,832 - INFO - Job started
+2026-03-26 04:04:33,834 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 04:04:33,895 - INFO - Rows loaded: 10000
+2026-03-26 04:11:10,808 - INFO - Job started
+2026-03-26 04:11:10,809 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 04:11:10,870 - INFO - Rows loaded: 10000
+2026-03-26 04:11:10,871 - INFO - Computing rolling mean
+2026-03-26 04:15:29,498 - INFO - Job started
+2026-03-26 04:15:29,500 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 04:15:29,569 - INFO - Rows loaded: 10000
+2026-03-26 04:15:29,569 - INFO - Computing rolling mean
+2026-03-26 04:15:29,575 - INFO - Generating signals
+2026-03-26 04:20:38,168 - INFO - Job started
+2026-03-26 04:20:38,169 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 04:20:38,223 - INFO - Rows loaded: 10000
+2026-03-26 04:20:38,224 - INFO - Computing rolling mean
+2026-03-26 04:20:38,230 - INFO - Generating signals
+2026-03-26 04:20:38,235 - INFO - Computing metrics
+2026-03-26 04:20:38,237 - INFO - Metrics: {'rows_processed': 10000, 'signal_rate': 0.4989, 'latency_ms': 69}
+2026-03-26 04:26:29,853 - INFO - Job started
+2026-03-26 04:26:29,854 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 04:26:29,913 - INFO - Rows loaded: 10000
+2026-03-26 04:26:29,913 - INFO - Computing rolling mean
+2026-03-26 04:26:29,919 - INFO - Generating signals
+2026-03-26 04:26:29,923 - INFO - Computing metrics
+2026-03-26 04:26:29,923 - INFO - Metrics: {'rows_processed': 10000, 'signal_rate': 0.4989, 'latency_ms': 70}
+2026-03-26 04:26:29,923 - INFO - Writing metrics
+2026-03-26 04:31:17,338 - INFO - Job started
+2026-03-26 04:31:17,339 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 04:31:17,391 - INFO - Rows loaded: 10000
+2026-03-26 04:31:17,391 - INFO - Computing rolling mean
+2026-03-26 04:31:17,398 - INFO - Generating signals
+2026-03-26 04:31:17,403 - INFO - Computing metrics
+2026-03-26 04:31:17,404 - INFO - Metrics: {'rows_processed': 10000, 'signal_rate': 0.4989, 'latency_ms': 65}
+2026-03-26 04:31:17,404 - INFO - Writing metrics
+2026-03-26 04:31:32,256 - INFO - Job started
+2026-03-26 04:31:32,259 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 04:31:32,317 - INFO - Rows loaded: 10000
+2026-03-26 04:31:32,318 - INFO - Computing rolling mean
+2026-03-26 04:31:32,323 - INFO - Generating signals
+2026-03-26 04:31:32,327 - INFO - Computing metrics
+2026-03-26 04:31:32,328 - INFO - Metrics: {'rows_processed': 10000, 'signal_rate': 0.4989, 'latency_ms': 71}
+2026-03-26 04:31:32,329 - INFO - Writing metrics
+2026-03-26 13:44:00,547 - INFO - Job started
+2026-03-26 13:44:00,556 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 13:44:00,557 - ERROR - Input file not found
